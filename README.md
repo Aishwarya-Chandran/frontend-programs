@@ -38,4 +38,5 @@ A curated collection of beginner-friendly frontend projects designed to build a 
 git clone <your-repo-url>
 
 - Navigate into any project folder and run it using Live Server or your preferred development environment.
+  
 
